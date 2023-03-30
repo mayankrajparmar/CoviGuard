@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CoviGuard/static/css/main.fcac22f2.css",
-    "main.js": "/CoviGuard/static/js/main.fa937319.js",
+    "main.css": "/CoviGuard/static/css/main.7bfdfc79.css",
+    "main.js": "/CoviGuard/static/js/main.94c0fcc5.js",
     "static/js/787.2f71b468.chunk.js": "/CoviGuard/static/js/787.2f71b468.chunk.js",
     "static/media/dose.svg": "/CoviGuard/static/media/dose.68ba268790d5d9c250ec5317872f79e0.svg",
     "index.html": "/CoviGuard/index.html",
-    "main.fcac22f2.css.map": "/CoviGuard/static/css/main.fcac22f2.css.map",
-    "main.fa937319.js.map": "/CoviGuard/static/js/main.fa937319.js.map",
+    "main.7bfdfc79.css.map": "/CoviGuard/static/css/main.7bfdfc79.css.map",
+    "main.94c0fcc5.js.map": "/CoviGuard/static/js/main.94c0fcc5.js.map",
     "787.2f71b468.chunk.js.map": "/CoviGuard/static/js/787.2f71b468.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcac22f2.css",
-    "static/js/main.fa937319.js"
+    "static/css/main.7bfdfc79.css",
+    "static/js/main.94c0fcc5.js"
   ]
 }
