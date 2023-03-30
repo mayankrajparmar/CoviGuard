@@ -1,11 +1,13 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 import "./Home.css"
+import Navbar from "./Navbar"
 import dose from "./Images/dose.svg";
 
 function Home() {
   return ( 
     <>
+    <Navbar/>
      <section id="header" class="d-flex align-items-center">
       <div class="container-fluid nav_bg">
         <div class="row">

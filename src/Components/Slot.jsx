@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Navbar from "./Navbar"
 import "./Slot.css";
 
 function Slot() {
@@ -127,6 +128,7 @@ function Slot() {
 
   return (
     <>
+    <Navbar/>
       <div class="container-fluid total">
         <div class="container card border shadow border-radius-5 mt-3  box2">
           <form action="#" class="" onSubmit={handlesubmit}>
