@@ -1,0 +1,42 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+}
+.prime2{
+    background-color:#17a2b8;
+}
+
+.allfont{
+    font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+    font-style:oblique;
+    font-weight:bolder}
+
+.data .first .item{
+    background-color:rgb(27, 126, 110) ;
+    color:#fff;
+}
+.main{
+    border:1px solid #000;
+    color:#fff;
+    text-align:center
+  }
+
+.box2{
+  width:500px;
+  height:200px;
+  background-color:#17a2b8 ;
+  
+}
+#search{
+  margin-top:10px;
+  font-size:2rem;
+  padding:6px;
+}
+select{
+  font-size:2rem;
+}
+
+.allfont{
+  font-weight: bold;
+  font-size: 2rem;
+}
